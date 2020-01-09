@@ -1,1 +1,1 @@
-web: julia --project highest-net-worths.jl $PORT
+web: julia --project src/highest-net-worths.jl $PORT
