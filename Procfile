@@ -1,0 +1,1 @@
+web: julia --project highest-net-worths.jl $PORT
