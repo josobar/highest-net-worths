@@ -44,4 +44,4 @@ end
 handler = make_handler(app, debug = true)
 println("localhost:8080")
 # HTTP.serve(handler, HTTP.Sockets.localhost, 8080)
-HTTP.listen(process.env.PORT)
+HTTP.listen(handler.env.PORT)
