@@ -1,23 +1,4 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@josobar 
-Optomatica
-/
-heroku-julia-sample
-1
-02
- Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights
-heroku-julia-sample/Manifest.toml
- Amgad Naiem sample project
-32e4cc9 on Jul 15, 2019
-192 lines (150 sloc)  5.39 KB
-  
 # This file is machine-generated - editing it directly is not advised
 
 [[AssetRegistry]]
@@ -210,15 +191,4 @@ deps = ["Base64", "Dates", "Distributed", "HTTP", "Logging", "Random", "Sockets"
 git-tree-sha1 = "13f763d38c7a05688938808b49cb29b18b60c8c8"
 uuid = "104b5d7c-a370-577a-8038-80a2059c5097"
 version = "1.5.2"
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
