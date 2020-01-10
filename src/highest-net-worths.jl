@@ -43,4 +43,4 @@ app = Dash("app", external_stylesheets = ["https://codepen.io/Kola58/pen/VwYrwrL
 end
 handler = make_handler(app, debug = true)
 println("localhost:8080")
-HTTP.listen(handler.env.PORT)
+HTTP.serve(handler, HTTP.Sockets.localhost, 8080)
